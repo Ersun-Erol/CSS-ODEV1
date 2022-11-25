@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    
+}
+body{
+    background-color: #DEF5E5;
+}
+
+ul{
+
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
+h1{
+    color: #073c28;
+    
+}
+a{
+    color: #69c1a8;
+}
+h2{
+    color: #396152;
+}
+h3{
+    color: #2f715e;
+}
+.lıst{
+    color: #2f715e;
+
+}
+.urun{
+    color: #1a2c25;
+} 
